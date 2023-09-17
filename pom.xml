@@ -50,4 +50,5 @@
         </dependency>
         
     </dependencies>
+    <name>App_Products</name>
 </project>
